@@ -1,7 +1,7 @@
 # Bright Aura  
 ## Real-Time Public Infrastructure Status System
 
-### Hackathon Project Documentation
+### Hackathon Project Documentation, Theme: Open Innovation
 
 ---
 
@@ -73,13 +73,25 @@ The system prioritizes **truth and freshness**, not intelligence or prediction.
 - Web dashboard for visualization
 - Admin-side maintenance tracking
 - Freshness-based validation of data
-
 ---
 
 ## Future Implementation  
 ### “Is It Working Today?” – Public Service Status Board
 
 The streetlight system acts as a proven foundation for a much larger use case.
+
+## Hardware setup section of this project and other features will be devloped/released in round 2!
+- Till now Complete NextJS Dashboard, E  xpress JS app and Schedulers are completed
+
+
+## What this Project do till now?
+- Till now the Nextjs App has role based login Admin & Partner.
+- Public Portal is for normal visitors to scanb the QR code given on Streetlight pole and raise a complaint of fault.
+- Partners are the ones who are responsible of managing repairs,complaints and new streetlight installations in area.
+- Admins are the one aho can manage the Partner access and other core features
+- the web-app uses geo location via browser to get exact coordinates of streetlight for installation updates or comaplint log
+
+- Pending? Hardware setup and other features excluding streetlight monitoring!
 
 ### Planned Extensions
 
