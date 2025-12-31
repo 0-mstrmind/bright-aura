@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "firebase-admin": "^13.4.0",
+    "node-cron": "^4.2.1"
+  }
+}

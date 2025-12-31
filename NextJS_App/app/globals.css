@@ -1,0 +1,103 @@
+@import "tailwindcss";
+@import "tailwindcss-animated";
+
+:root {
+  --color-primary: #F79F1F;
+  --color-secondary: #b4710c;
+}
+
+input:-webkit-autofill,
+textarea:-webkit-autofill,
+select:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 1000px transparent inset !important;
+    transition: background-color 9999s ease-in-out 0s;
+}
+
+input.text-white:-webkit-autofill {
+  -webkit-text-fill-color: #fff !important;
+}
+
+input.text-black:-webkit-autofill {
+  -webkit-text-fill-color: #000 !important;
+}
+
+
+/* Transparent scrollbar (Webkit browsers) */
+.transparent-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.transparent-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.transparent-scrollbar::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 255, 255, 0.288);
+  border-radius: 8px;
+}
+
+.transparent-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+
+/* font */
+.poppins-semibold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* class to blur map-bg */
+.blur-map {
+  filter: blur(0);
+  animation: blurBG 0.5s ease-in-out forwards;
+}
+
+/* animation to blur bg slowly */
+@keyframes blurBG {
+  0% {
+    filter: blur(0.5px);
+  }
+
+  50% {
+    filter: blur(1px);
+  }
+
+  100% {
+    filter: blur(2px);
+  }
+}
+
+/* qr scanner classes and animations*/
+.scanner-container {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  border: 4px solid #00ff00;
+  overflow: hidden;
+}
+
+.scan-line {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  background: rgba(255, 0, 0, 0.8);
+  animation: scanMove 2s linear infinite;
+}
+
+@keyframes scanMove {
+  0% {
+    top: 0;
+  }
+
+  50% {
+    top: calc(100% - 4px);
+  }
+
+  100% {
+    top: 0;
+  }
+}
