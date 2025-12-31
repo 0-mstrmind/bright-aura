@@ -1,11 +1,10 @@
-# Bright Aura  
-## Real-Time Public Infrastructure Status System
-
-### Hackathon Project Documentation, Theme: Open Innovation
+# Bright Aura  (Real-Time Public Infrastructure Status System)
+### Theme: Open Innovation
 
 ---
 
-## Login Credentials for hosted prototype on: https://bright-aura-peach.vercel.app/
+## Login Credentials 
+URL: https://bright-aura-peach.vercel.app/
 ### Admin Portal
 - Email: testadmin@gmail.com
 - Password: admin@101
@@ -32,7 +31,7 @@ This project began as a **street light monitoring system**, and it naturally ext
 
 No predictions.  
 No assumptions.  
-Only current, verified status.
+Only current/automated, verified status.
 
 ---
 
@@ -45,6 +44,11 @@ Public infrastructure failures are usually discovered too late:
 - Status information is outdated or unavailable
 
 Most existing systems try to predict failures instead of reporting reality.
+
+---
+
+## Data Flow 
+![alt text](<data-flow.jpeg>)
 
 ---
 
@@ -72,7 +76,7 @@ The system prioritizes **truth and freshness**, not intelligence or prediction.
 - Gateway-based data aggregation
 - Web dashboard for visualization
 - Admin-side maintenance tracking
-- Freshness-based validation of data
+- Real-time validation of data
 ---
 
 ## Future Implementation  
@@ -174,8 +178,5 @@ It answers a simpler and more important question:
 By making infrastructure status visible, the system saves time, reduces frustration, and improves accountability.
 
 Automated Streetlight Monitoring is just the beginning in round-2 other parts explained above will be done.
-
-## Data Flow 
-![alt text](<data-flow.jpeg>)
 
 ---
