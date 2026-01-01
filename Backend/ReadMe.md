@@ -6,4 +6,5 @@
 - Used seperately from NextJS Web Dashbord app (Independent)
 - Only used for gateway to main database data tranfer (firebase/firestore)
 
-- Need correct environment variable values in ".env" file to work, Please check ".env.example" file for reference!
+## Note
+- It is mandatory to create ".env" file and give correct environment variable values to make the app  work, Please check ".env.example" file for reference!
