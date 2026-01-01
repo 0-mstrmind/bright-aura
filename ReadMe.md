@@ -1,9 +1,9 @@
 # Bright Aura  (Real-Time Public Infrastructure Status System)
-### Theme: Open Innovation
+### Project Prototype For: Hack The Winter, Theme: Open Innovation
 
 ---
 
-## Login Credentials 
+## Login Credentials (NextJS Web Dashboard)
 URL: https://bright-aura-peach.vercel.app/
 ### Admin Portal
 - Email: testadmin@gmail.com
