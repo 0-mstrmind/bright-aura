@@ -79,6 +79,9 @@ The system prioritizes **truth and freshness**, not intelligence or prediction.
 - Real-time validation of data
 ---
 
+## Note
+- Check ReadMe.md file given in each directory for more clear reference of specific part of the project
+
 ## Future Implementation  
 ### “Is It Working Today?” – Public Service Status Board
 
