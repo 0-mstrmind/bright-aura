@@ -16,5 +16,5 @@ Bright Aura - Streetlight monitoring system web dashboard is implemented here fo
 - using custom auto fetch via api or custom tech same as Streetlight Monitoring System (Hardware/Crowd gathered updates)
 
 ## Note
-- NextJS web Dashbord is independent from ExpressJS (Backend) app or Scheduler script can work seperately\
-- Mandatory to create ".env.local" file and give correct values to environment variables to make the app work, Please check ".env.example" file for reference.
+- NextJS web Dashbord is independent from ExpressJS (Backend) app or Scheduler script can work seperately
+- It is mandatory to create ".env.local" file and give correct values to environment variables to make the app work in development, Please check ".env.example" file for reference.
