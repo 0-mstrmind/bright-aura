@@ -87,8 +87,8 @@ The system prioritizes **truth and freshness**, not intelligence or prediction.
 
 The streetlight system acts as a proven foundation for a much larger use case.
 
-## Hardware setup section of this project and other features will be devloped/released in round 2!
-- Till now Complete NextJS Dashboard, E  xpress JS app and Schedulers are completed
+### Hardware setup section of this project and other features will be devloped/released in round 2!
+- Till now Complete NextJS Dashboard, ExpressJS Backend app and Scheduler scripts are completed.
 
 
 ## What this Project do till now?
@@ -98,7 +98,7 @@ The streetlight system acts as a proven foundation for a much larger use case.
 - Admins are the one aho can manage the Partner access and other core features
 - the web-app uses geo location via browser to get exact coordinates of streetlight for installation updates or comaplint log
 
-- Pending? Hardware setup and other features excluding streetlight monitoring!
+- Due for Round 2: Hardware (Iot system) setup and other features including streetlight monitoring!
 
 ### Planned Extensions
 
