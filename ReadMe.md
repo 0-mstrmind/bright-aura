@@ -4,7 +4,7 @@
 ---
 
 ## Login Credentials (NextJS Web Dashboard)
-URL: https://bright-aura-streetlight-monitoring.vercel.app/
+URL: https://brightaura.electrolabs.org/
 ### Admin Portal
 - Email: testadmin@gmail.com
 - Password: admin@101
