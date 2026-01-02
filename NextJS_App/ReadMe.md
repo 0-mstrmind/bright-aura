@@ -1,7 +1,7 @@
 # NextJS app for Web Dashboard
 
-## Hosted Prototype URL: https://bright-aura-peach.vercel.app/
-Login Creds are provided in main [ReadMe.md](https://bright-aura-streetlight-monitoring.vercel.app/) file
+## Hosted Prototype URL: https://bright-aura-streetlight-monitoring.vercel.app/ OR https://electrolabs.org
+Login Creds are provided in main [ReadMe.md](https://github.com/0-mstrmind/bright-aura/blob/main/ReadMe.md) file
 
 Bright Aura - Streetlight monitoring system web dashboard is implemented here for "Hack The Winter (Round-1)" consisting:
 - Admin/Partner Login System (Role based)
