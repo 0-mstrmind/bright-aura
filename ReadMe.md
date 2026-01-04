@@ -1,5 +1,6 @@
 # Bright Aura  (Real-Time Public Infrastructure Status System)
 ### Project Prototype For: Hack The Winter, Theme: Open Innovation
+### Team - EliteHack Squad
 
 ---
 
